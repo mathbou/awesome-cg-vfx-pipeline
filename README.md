@@ -107,7 +107,7 @@ Any contribution is welcome!
     * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilizes Blender and its Python API to create a visual programming environment for artists and developers
 * [Blockbench](https://www.blockbench.net/) - Low-poly 3D modeling, texturing, and animation. Desktop/web.
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
-* [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer with animation, thumbnails, and many file formats support.
+* [F3D](https://f3d.app/) - Fast and minimalist 3D viewer with animation, thumbnails, and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork represents a compilation of features and fixes.
 * [FreeCAD](https://www.freecad.org/) - Parametric 3D CAD and BIM modeler with FEM support.
 * [Solvespace](https://solvespace.com/index.pl) -  parametric 3d CAD modeling tool.
