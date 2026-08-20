@@ -491,7 +491,7 @@ Any contribution is welcome!
 
 ### PyCharm
 
-* [MayaCharm](https://github.com/cmcpasserby/MayaCharm) - Run and edit Maya scripts directly from PyCharm
+* [MayaReCharm](https://github.com/mathbou/MayaReCharm) ([MayaCharm](https://github.com/cmcpasserby/MayaCharm) 💀) - Run and edit Maya scripts directly from PyCharm
 * [USD](https://github.com/justint/usd-idea) - Plug-in for USD
 
 ### SublimeText
